@@ -17,6 +17,7 @@
 /prodDb.*
 
 # general HSQL database files
+*devDb*
 *Db.properties
 *Db.script
 
